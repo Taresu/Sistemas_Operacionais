@@ -21,4 +21,4 @@ estratégias de interação, software de entrada/saída, drivers, principais sub
 
 ## Atividades:
 ##### `Atividade 1` - Simulação da compra de equipamentos Dell, analisar configurações / especificações dos dispositivos escolhidos;
-##### `Atividade 2` - Leitura de [artigo](https://itforum.com.br/noticias/mais-15-certificacoes-de-ti-muito-valiosas-hoje/) e síntese, aprofundar conhecimentos em certificações [LPI](https://www.lpi.org/) e [AWS](https://aws.amazon.com/pt/training/?nc2=h_ql_ce_tc-a) e criar mapa mental ou resumo.
+##### `Atividade 2` - Leitura de [artigo](https://itforum.com.br/noticias/mais-15-certificacoes-de-ti-muito-valiosas-hoje/) e síntese, aprofundar conhecimentos sobre certificações [LPI](https://www.lpi.org/) e [AWS](https://aws.amazon.com/pt/training/?nc2=h_ql_ce_tc-a) e criar mapa mental ou resumo.
