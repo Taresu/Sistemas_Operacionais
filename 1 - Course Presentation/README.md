@@ -1,7 +1,7 @@
 # 1 - Apresentação do Curso
 
 ### Objetivo da disciplina
-- Proporcionar aos alunos conhecimentos teóricos e práticos em Sistemas Operacionais.
+Proporcionar aos alunos conhecimentos teóricos e práticos em Sistemas Operacionais.
 - **Visão geral de sistemas operacionais:** objetivos, tipos, funcionalidades, estrutura interna, 
 arquiteturas, mecanismos de hardware utilizados, visão geral de Unix e Linux.
 - **Gerência de tarefas:** contextos e processos, threads, escalonamento de tarefas.
