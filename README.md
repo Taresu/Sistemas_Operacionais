@@ -1,6 +1,6 @@
 # Sistemas Operacionais (SO)
 
-##### `Curso` Sistemas de Informação (BSI)
+##### `Bacharelado` Sistemas de Informação (BSI)
 ##### `Universidade` UTFPR - Universidade Tecnológica Federal do Paraná
 
 ## Tópicos
