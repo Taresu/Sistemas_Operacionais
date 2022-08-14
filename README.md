@@ -1,6 +1,6 @@
 # Sistemas Operacionais (SO)
 
-##### `Bacharelado` Sistemas de Informação
+##### `Curso` Sistemas de Informação
 ##### `Universidade` UTFPR
 
 ## Tópicos
