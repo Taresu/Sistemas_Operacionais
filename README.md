@@ -19,6 +19,8 @@ Conteúdo presente:
     103.1 - Trabalhar na linha de comando
     103.2 - Processar fluxos de texto usando filtros
     103.3 - Gerenciamento básico de arquivos
+    103.4 - Fluxos, pipes (canalização) e redirecionamentos de saída
+    103.5 - Criar, monitorar e finalizar processos
 
 ## Links interessantes
 - [Certificações Linux LPI](https://lpibrasil.com.br/)
