@@ -1,5 +1,5 @@
 # Mapas Mentais
 
-##### Estes Mindmaps tem o objetivo de sintetizar informações essenciais do curso, como linhas de comando úteis aprendidas durante o desenvolvimento da disciplina.
+##### Os presentes Mindmaps possuem o objetivo de sintetizar informações essenciais do curso, sobretudo linhas de comando úteis, as quais foram aprendidas durante o desenvolvimento da disciplina.
 
 ##### **OBS:** Mapas mentais feitos pelo Docente!.
