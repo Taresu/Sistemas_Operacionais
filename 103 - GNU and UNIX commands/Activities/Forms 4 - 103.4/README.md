@@ -2,6 +2,9 @@
 
 ##### 1)
 
+![image](https://user-images.githubusercontent.com/83923976/187095978-dc4cc6af-09fe-4826-b37f-aae132949704.png)
+
+
 Input:
 ```bash
 $   touch diretorios-config.out
@@ -23,6 +26,9 @@ ________________________________________________________________________________
 
 ##### 2)
 
+![image](https://user-images.githubusercontent.com/83923976/187095986-55b539ef-342a-47dd-b067-a3835caabadb.png)
+
+
 ##### Canais de comunicação e redirecionadores:
 **Entrada padrão** - stdin (0), representado por < ou <0 \
 **Saída padrão** - stdout (1), representado por > ou 1> \
@@ -39,12 +45,13 @@ x <-> y
 **x >> y arquivo:**  adiciona dados de um arquivo x em y (sem sobrescrever); \
 **x 2> y arquivo:** redireciona uma mensagem de erro (stderr) a um destino; \
 **>x arquivo 2>&1 y:** redireciona o resultado da mensagem de erro (stderr) para a saída padrão y (stdout) e logo em seguida, para o arquivo x.
-```
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 
 ##### 3)
 
+![image](https://user-images.githubusercontent.com/83923976/187095994-4e9d1e39-3f64-4469-991a-09eba3f9daeb.png)
 
 Input:
 ```bash
@@ -52,7 +59,7 @@ $  ls -R ~/LPI1/Exercicios/Network < lista-network.out | tee lista-network.out |
 $  ls -R ~/LPI1/Exercicios/Network > lista-network.out
 ```
 
-Output
+Output:
 ```bash
 home/tsalata/LPI1/Exercicios/Network:
 if-down.d  if-post-down.d  if-pre-up.d  if-up.d
