@@ -26,3 +26,4 @@ Conteúdo presente:
 - [Certificações Linux LPI](https://lpibrasil.com.br/)
 - [Echo Command in Linux with Examples](https://linuxize.com/post/echo-command-in-linux-with-examples/#:~:text=To%20print%20a%20double%20quote,it%20with%20the%20backslash%20character.&text=Display%20a%20line%20of%20text%20containing%20a%20single%20quote.,use%20the%20ANSI%2DC%20Quoting%20.&text=Display%20a%20message%20containing%20special%20characters.)
 - [Comando 'cut' - Filtragem](https://gnulinuxbr.wordpress.com/2009/07/03/filtragem-1-2-cut/)
+- [Show recursive directory listing on Linux or Unix](https://www.cyberciti.biz/faq/how-to-show-recursive-directory-listing-on-linux-or-unix/)
