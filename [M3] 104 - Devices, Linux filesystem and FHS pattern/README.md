@@ -1,4 +1,4 @@
-# 104 - Dispositivos, Sistemas de arquivos Linux e padrão FHS
+# 104 - Dispositivos, sistemas de arquivos Linux e padrão FHS
 
 
 ## Conteúdos

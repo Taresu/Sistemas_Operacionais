@@ -11,11 +11,11 @@ Conteúdo presente:
 - Mapas mentais
 - Atividades
   - Formulários
-### M1: Apresentação do Curso
+### [M1] Apresentação do Curso
      Objetivos da disciplina
      Atividades iniciais
 
-### M2: 103 - Comandos GNU e UNIX
+### [M2] 103 - Comandos GNU e UNIX
     103.1 - Trabalhar na linha de comando
     103.2 - Processar fluxos de texto usando filtros
     103.3 - Gerenciamento básico de arquivos
@@ -23,6 +23,8 @@ Conteúdo presente:
     103.5 - Criar, monitorar e finalizar processos
     103.6 - Modificar a prioridade de execução de um projeto
     103.7 - Pesquisar em arquivos de texto usando expressões regulares
+
+### [M3] 104 - Dispositivos, sistemas de arquivos Linux e padrão FHS
 
 ## 🌐 Links interessantes
 - [Certificações Linux LPI](https://lpibrasil.com.br/)
