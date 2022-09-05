@@ -2,6 +2,8 @@
 
 #### 1)
 
+![image](https://user-images.githubusercontent.com/83923976/188346428-51669fa8-6f07-467b-9cb0-fd186ac6a8b4.png)
+
 **Input:**
 ```bash
 $  cat /etc/passwd | egrep  ":[0-9]{3}$" | cut -d':' -f1
@@ -20,6 +22,8 @@ ________________________________________________________________________________
 
 #### 2)
 
+![image](https://user-images.githubusercontent.com/83923976/188346438-419cec7c-5625-4632-9153-bdd5e9ebf75d.png)
+
 **Input:**
 ```bash
 $  grep -rnwl '/etc/' -e 'eth0'
@@ -35,7 +39,7 @@ ________________________________________________________________________________
 
 #### 3)
 
-![image](https://user-images.githubusercontent.com/83923976/187095994-4e9d1e39-3f64-4469-991a-09eba3f9daeb.png)
+![image](https://user-images.githubusercontent.com/83923976/188346451-0b3599ca-4c33-47ce-b918-27145177b96c.png)
 
 **Input:**
 ```bash
@@ -70,6 +74,8 @@ mysql:128
 _______________________________________________________________________________________________________________________________________________________________________
 
 #### 4)
+
+![image](https://user-images.githubusercontent.com/83923976/188346459-4334ad14-9a51-48a1-955e-f35d310bea3a.png)
 
 **Input:**
 ```bash
