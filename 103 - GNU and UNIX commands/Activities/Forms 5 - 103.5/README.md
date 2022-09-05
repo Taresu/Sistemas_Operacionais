@@ -2,9 +2,10 @@
 
 #### 1)
 
+![image](https://user-images.githubusercontent.com/83923976/188346311-b9b53ce0-0afb-4009-a50c-cbd4b118cb34.png)
+
 Instalando e iniciando htop (no Ubuntu):
 ```bash
-
 $  sudo apt install htop
 $  htop
 ```
@@ -50,7 +51,7 @@ ________________________________________________________________________________
 
 #### 2)
 
-![image](https://user-images.githubusercontent.com/83923976/187095986-55b539ef-342a-47dd-b067-a3835caabadb.png)
+![image](https://user-images.githubusercontent.com/83923976/188346358-3ff69719-e5e7-44fb-a23e-e451b7255493.png)
 
 ```bash
 $  mkdir ~/Exercicios/resultado-top.out
@@ -61,7 +62,7 @@ ________________________________________________________________________________
 
 #### 3)
 
-![image](https://user-images.githubusercontent.com/83923976/187095994-4e9d1e39-3f64-4469-991a-09eba3f9daeb.png)
+![image](https://user-images.githubusercontent.com/83923976/188346369-de9388b3-2345-454d-8fab-cfa3beae120f.png)
 
 ```bash
 $  pgrep nohup watch -n 10 top
@@ -78,4 +79,3 @@ $  pidof nohup watch -n 10 top
 $  kill -9 22515
 [23]     Done                                      nohup watch -n 10 top
 ```
-_______________________________________________________________________________________________________________________________________________________________________
