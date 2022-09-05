@@ -1,6 +1,8 @@
 # Atividades
 
-##### Essa sessão (103 - GNU and UNIX commands) apresenta 5 formulários, as perguntas foram printadas e as minhas resoluções transcritas...
+### Essa sessão (*103 - GNU and UNIX commands*) apresenta 5 formulários.
+
+### As perguntas foram printadas e as minhas resoluções transcritas...
 
 ## Formulários:
 
