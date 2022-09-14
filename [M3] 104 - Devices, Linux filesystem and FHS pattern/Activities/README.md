@@ -6,4 +6,4 @@
 
 ## Formulários:
 
-- [ ] **Forms 1:** `104 - Dispositivos, sistemas de arquivos Linux e padrão FHS` e `104.6 - Criar e alterar links simbólicos`
+- [x] **Forms 1:** `104 - Dispositivos, sistemas de arquivos Linux e padrão FHS` e `104.6 - Criar e alterar links simbólicos`

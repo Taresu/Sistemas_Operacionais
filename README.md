@@ -25,6 +25,12 @@ Conteúdo presente:
     103.7 - Pesquisar em arquivos de texto usando expressões regulares
 
 ### [M3] 104 - Dispositivos, sistemas de arquivos Linux e padrão FHS
+    104 - Dispositivos, sistemas de arquivos Linux e padrão FHS
+    104.6 - Criar links simbólicos e hard links
+
+### [M4] 101 - Arquitetura de Sistema
+    101 - Arquitetura de Sistema
+    101.1 - Determinar e definir configurações de hardware
 
 ## 🌐 Links interessantes
 - [Certificações Linux LPI](https://lpibrasil.com.br/)
