@@ -12,4 +12,4 @@
 - [X] **Forms 4:** `103.4 - Fluxos, pipes (canalização) e redirecionamentos de saída`
 - [X] **Forms 5:** `103.5 - Criar, monitorar e finalizar processos`
 - [X] **Forms 6:** `103.7 - Pesquisar em arquivos de texto usando expressões regulares`
-- [ ] **Forms 7:** `103.6 - Modificar a prioridade de execução de um projeto`
+- [X] **Forms 7:** `103.6 - Modificar a prioridade de execução de um projeto`
